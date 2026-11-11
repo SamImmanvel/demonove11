@@ -13,6 +13,7 @@ public class pg1 {
             System.out.println("not palindrome");
 
         }
+        System.out.println("done");
     }
 }
 }
